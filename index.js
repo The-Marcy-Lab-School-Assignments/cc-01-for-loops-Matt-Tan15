@@ -1,6 +1,6 @@
 //1
 function countToFifty() {
- for(let i = 5; i <= 50; i++){
+ for(let i = 1; i <= 50; i++){
      console.log(i)
  } 
 }
